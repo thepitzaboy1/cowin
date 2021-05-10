@@ -27,3 +27,7 @@
 
 #this script has an ability to send outlook email(needs outlook client to be opened)
 #this script also has an ability to whatsapp to a group updates of slots opening up, (using chromedriver) from web.whatsapp.com
+
+#for state list get data from https://cdn-api.co-vin.in/api/v2/admin/location/states
+#for district codes get data from https://cdn-api.co-vin.in/api/v2/admin/location/districts/16  
+#16 above is Karnataka state ID.
