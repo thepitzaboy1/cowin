@@ -26,4 +26,4 @@
 #from requests.packages.urllib3.util.retry import Retry
 
 #this script has an ability to send outlook email(needs outlook client to be opened)
-#this script also has an ability to whatsapp to a group updates of slots opening up, using chromedriver from web.whatsapp.com
+#this script also has an ability to whatsapp to a group updates of slots opening up, (using chromedriver) from web.whatsapp.com
