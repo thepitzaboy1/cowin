@@ -1,3 +1,10 @@
+This is a small python utility to find available appointments of the desired pin code(s) for next N days, for a given age limit.
+
+Powered by CoWIN Public APIs - https://apisetu.gov.in/public/marketplace/api/cowin
+
+Originial concept borrowed from: https://github.com/mata1234/cowin_appointment_finder/
+
+
 # cowin
 #Just import packages as below via pip
 #from datetime import datetime, timedelta
