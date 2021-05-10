@@ -256,8 +256,8 @@ def process():
             outlook = win32.Dispatch('outlook.application')
             print(dfObj.head())
             mail = outlook.CreateItem(0)
-            mail.To = 'sup.banerjee@gmail.com;bhavna.libran84@gmail.com;mohitamourya88@gmail.com;bansudeshna@gmail.com'
-#            mail.To = 'sup.banerjee@gmail.com;'            
+            mail.To = '1@gmail.com;2@gmail.com;'
+         
             mail.Subject = 'COWINAutomation'
             mail.HTMLBody = '''<h3>Please find data attached and below.</h3>{}'''.format(dfObj.to_html())
             HOUR = datetime.now().hour
